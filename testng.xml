@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Amit Kumar Gaurav/IdeaProjects/RedBusApplication/RedBus-PM+TestNG">
+    <classes>
+        <class name="testObject.TestClass"/>
+        <class name="testObject.HomePageTest"/>
+        <class name="testObject.ResultOfBusesSerachPageTest"/>
+    </classes>
+</test></suite>
